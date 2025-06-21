@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Priyanshu Prakash Sharma</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Full+Stack+Developer+(Spring);Android+App+Developer+(Kotlin+%26+XML);BCA+Graduate+2025;Tech+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Full+Stack+Developer+(Spring);Android+App+Developer+(Kotlin+%26+XML);Tech+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 ---
