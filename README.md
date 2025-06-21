@@ -46,11 +46,21 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 
 ## 🚀 Projects That Reflect Me
 
-- 📱 **Fitness Tracker App** *(Kotlin + XML)*  
-  ➤ Tracks exercises, burned calories (30-day view), BMI — stores data using `SharedPreferences`.
+### 💰 Personal Finance Manager
 
-- 💰 **Personal Finance Manager** *(Java)*  
-  ➤ Helps users manage monthly expenses, visualize spending, and set savings goals.
+📱 Built with **Kotlin + XML** using **Room Database**  
+💸 Lets users add records by **income or expense** with **category tags**  
+🗂️ Includes features to **view, filter, and delete** transactions
+
+🔗 [View Code on GitHub](https://github.com/Priyanshu-Prakash-Sharma/Personal-Finance-Manager)
+
+
+### 📱 Fitness Tracker App
+
+📱 Developed in **Kotlin + XML** using **MVVM architecture**  
+💾 Stores BMI and 30-day exercise stats with `SharedPreferences`
+
+🔗 [View Code on GitHub](https://github.com/Priyanshu-Prakash-Sharma/Fitness-App)
 
 ---
 
