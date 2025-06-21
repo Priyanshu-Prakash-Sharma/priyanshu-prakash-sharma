@@ -76,7 +76,7 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 ## 📫 Contact Me
 
 📧 **Email**: priyanshuprakashsharma@gmail.com  
-💼 **LinkedIn**: [Add your LinkedIn link here]  
+💼 **LinkedIn**:   
 
 ---
 
