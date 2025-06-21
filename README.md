@@ -52,9 +52,6 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 - 💰 **Personal Finance Manager** *(Java)*  
   ➤ Helps users manage monthly expenses, visualize spending, and set savings goals.
 
-- 📅 **Study Planner AI** *(Java – Concept Stage)*  
-  ➤ Automatically generates personalized study timetables based on user input.
-
 ---
 
 ## 📘 Currently Learning
