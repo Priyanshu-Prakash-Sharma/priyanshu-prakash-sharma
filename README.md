@@ -98,7 +98,8 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakatimeUsername&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Prakash-Sharma&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
 </p>
+
 
 
