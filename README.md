@@ -98,6 +98,7 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu-Prakash-Sharma&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakatimeUsername&theme=tokyonight" />
 </p>
+
 
