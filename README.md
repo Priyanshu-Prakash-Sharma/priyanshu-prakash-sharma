@@ -96,3 +96,8 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Prakash-Sharma&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu-Prakash-Sharma&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
+
