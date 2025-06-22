@@ -66,11 +66,10 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 
 ---
 
-## 📘 Currently Learning
+## 📘 Currently Mastering
 
-- 🌐 Full Stack Development with **Java + Spring Boot**
-- 📊 Spring MVC • Spring Security • JPA & Hibernate
-- ☁️ Tools: Git, Postman, Docker (Basics)
+- 🌐 Full Stack Development with **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- ⚙️ Dev Tools: Git, Postman, Docker *(Basics)*
 
 ---
 
