@@ -23,22 +23,22 @@
 
 
 
-### 🖥️ Frontend
-HTML5 • CSS3 • JavaScript (ES6+) • React.js • Tailwind CSS • TypeScript *(learning)* • Thymeleaf
+### 🖥️ Frontend  
+HTML5 • CSS3 • JavaScript (ES6+) • React.js • Tailwind CSS • TypeScript • Next.js
 
-### ⚙️ Backend
-Java • Spring Boot • Spring MVC • Spring Security • Hibernate • PHP • REST API
+### ⚙️ Backend  
+Node.js • Express.js • MongoDB • REST API • Spring Boot *(past experience)* • PHP
 
-### 📱 Android Dev
+### 📱 Android Dev  
 Kotlin + XML • Android Studio • Room DB • MVVM • Coroutines • SharedPreferences
 
-### 🗄️ Databases
-MySQL • SQLite • Room DB • SQL • PostgreSQL *(learning)*
+### 🗄️ Databases  
+MongoDB • MySQL • SQLite • Room DB • PostgreSQL
 
-### 🧰 Dev Tools
-Git • GitHub • Postman • VS Code • IntelliJ IDEA • Linux • Figma • Docker *(learning)*
+### 🧰 Dev Tools  
+Git • GitHub • Postman • VS Code • IntelliJ IDEA • Linux • Figma • Docker
 
-### 🧠 Concepts
+### 🧠 Concepts  
 OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 
 
