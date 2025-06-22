@@ -9,7 +9,7 @@
 
 🎓 I'm a **BCA 2025 Graduate** passionate about crafting meaningful and scalable digital solutions.  
 📱 I specialize in **Android App Development** using **Kotlin** and **XML**, building smooth and responsive native experiences.  
-🌐 Currently diving deep into **Java Full Stack Development** with **Spring Framework**, bridging frontend creativity with robust backend logic.  
+🌐 Currently mastering **MERN Stack Development** (MongoDB, Express.js, React, Node.js) to build modern, scalable web apps.  
 💡 I enjoy solving real-world problems, building clean UI/UX, and continuously exploring modern technologies and frameworks.
 
 ---
