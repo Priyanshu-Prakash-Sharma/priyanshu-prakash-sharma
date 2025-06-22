@@ -22,6 +22,8 @@
 
 
 
+### 🌐 MERN Stack  
+MongoDB • Express.js • React.js • Node.js
 
 ### 🖥️ Frontend  
 HTML5 • CSS3 • JavaScript (ES6+) • React.js • Tailwind CSS • TypeScript • Next.js
