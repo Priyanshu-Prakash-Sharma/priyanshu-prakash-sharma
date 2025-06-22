@@ -98,8 +98,9 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Prakash-Sharma&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu-Prakash-Sharma&bg_color=1a1b27&color=58a6ff&line=4c8eda&point=58a6ff&area=true&hide_border=true" />
 </p>
+
 
 
 
