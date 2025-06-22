@@ -98,8 +98,9 @@ OOP • DSA • MVC/MVVM • RESTful APIs • Problem Solving
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Prakash-Sharma&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Prakash-Sharma&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 
