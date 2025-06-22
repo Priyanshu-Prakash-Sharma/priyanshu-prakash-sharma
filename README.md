@@ -17,7 +17,7 @@
 ## 💻 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,cpp,php,html,css,js,ts,react,nextjs,spring,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,ai,docker,linux,figma,kali,ps&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,cpp,php,html,css,js,react,nextjs,expressjs,mongodb,nodejs,ts,mysql,firebase,git,github,postman,vscode,ai,docker,linux,figma,kali,ps&perline=9" />
 </p>
 
 
