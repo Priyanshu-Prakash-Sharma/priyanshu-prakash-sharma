@@ -1,76 +1,74 @@
 <h1 align="center">Hi there! 👋 I'm Priyanshu Prakash Sharma</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Data+Scientist+%7C+ML+Intern;Python+%7C+SQL+%7C+Machine+Learning;NLP+%7C+EDA+%7C+Predictive+Models" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;SaaS+Revenue+%26+Churn+Analytics;EDA+%7C+KPI+Modeling+%7C+Business+Intelligence" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔍 About Me
+## 📊 About Me
 
-🎓 **BCA Graduate (2025)** passionate about **Data Science & Machine Learning**.  
-📊 I work on **EDA, ML models, NLP workflows, data cleaning, and predictive analysis**.  
-💡 Strong mathematical reasoning + Python + SQL skills make data problems exciting for me.  
-🚀 Currently building real-world DS projects and preparing for **DS / ML Intern roles**.  
+🎓 BCA Graduate (2025) with a strong academic record (**CGPA: 9.16/10**).  
+📈 Focused on **Data Analysis, SaaS revenue modeling, churn analytics, and business intelligence.**  
+🧠 Skilled in transforming multi-table datasets into structured KPI systems for decision-making.  
+🚀 Actively building real-world analytics projects and preparing for **Data Analyst / BI roles**.
 
----
-
-## 🧠 Tech Stack
-
-### 🔢 Data Science  
-Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • NLP (TF-IDF, Text Cleaning)
-
-### 🗄 Databases  
-SQL • MySQL • PostgreSQL
-
-### 📊 Data Analysis & BI  
-EDA • Power BI • Excel (Pivot Tables, Cleaning)
-
-### 🛠 Tools  
-Jupyter Notebook • Git • GitHub • VS Code
-
-### 💻 Bonus Skills (Dev Background)  
-Kotlin • Android Studio • MERN Basics (MongoDB, Express, React, Node)
+🔗 **Portfolio:** https://priyanshuprakashsharma-gg50i22.gamma.site/
 
 ---
 
-## 📂 Machine Learning Projects
+## 🧰 Tech Stack
 
-### 🔹 Customer Churn Prediction (ML)
-Built churn prediction model using Logistic Regression + Random Forest  
-Performed data cleaning, EDA, feature engineering & ROC-AUC evaluation  
+### 🗄 Programming & Querying
+**SQL** (Joins, CTEs, Window Functions)  
+**Python** (Pandas, NumPy, Matplotlib)
 
-🔗 *Coming soon…*
+### 📊 Data Analysis & BI
+EDA • KPI Engineering • Revenue Modeling  
+**Power BI** (Power Query, DAX Basics)  
+Advanced Excel (Pivot Tables, Lookups)
 
----
+### 🛠 Tools & Databases
+MySQL • Jupyter Notebook • Git • GitHub
 
-### 🔹 Movie Review Sentiment Analysis (NLP)
-Text preprocessing, TF-IDF vectorization, and sentiment classifier for IMDB dataset  
-Visualized sentiment distribution using word clouds & bar charts  
-
-🔗 *Coming soon…*
-
----
-
-## 📱 Past Android Projects (Bonus Strength)
-
-### 📌 Personal Finance Manager (Kotlin + Room DB)
-A simple finance app for tracking income/expenses  
-🔗 https://github.com/Priyanshu-Prakash-Sharma/Personal-Finance-Manager
-
-### 📌 Fitness Tracker App (Kotlin + MVVM)
-Tracks BMI, exercise stats with SharedPreferences  
-🔗 https://github.com/Priyanshu-Prakash-Sharma/Fitness-App
+### 📌 Analytical Focus Areas
+Churn Rate Analysis • ARPU & Revenue Metrics  
+Trend Analysis • Customer Segmentation  
+Multi-table Relational Modeling
 
 ---
 
-## 🌱 Currently Learning
-- Supervised Machine Learning  
-- Feature Engineering  
-- Power BI Dashboards  
-- NLP and Classification Models  
+## 📂 Analytics Projects
+
+### 🔹 SaaS Customer Churn & Revenue Intelligence (In Progress)
+Multi-table SaaS dataset (500 accounts, 5,000+ subscriptions)
+
+- Engineered account-level KPI model  
+- Computed MRR, ARR, ARPU & customer lifespan  
+- Analyzed 24-month revenue trends  
+- Designed churn & retention analysis foundation  
+
+🔗 Repository: *Coming Soon*
+
+---
+
+### 🔹 Customer Review Sentiment Insights
+Text preprocessing + TF-IDF analysis
+
+- Cleaned and structured review dataset  
+- Conducted sentiment trend exploration  
+- Applied TF-IDF for term importance insights  
+
+🔗 Repository: *Coming Soon*
+
+---
+
+## 💼 Internship Experience
+
+### AI/ML Intern – Evoastra Ventures Inc.
+- Collected and structured web data for analytics workflows  
+- Conducted data cleaning and exploratory analysis  
+- Collaborated in a team of 5 on model evaluation and validation  
 
 ---
 
@@ -86,8 +84,8 @@ Tracks BMI, exercise stats with SharedPreferences
 
 ---
 
-## 📫 Contact  
-📧 **Email:** sharmapriyanshuprakash@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/priyanshu-prakash-sharma/  
+## 📫 Connect With Me
 
----
+📧 Email: sharmapriyanshuprakash@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-prakash-sharma/  
+🌐 Portfolio: https://priyanshuprakashsharma-gg50i22.gamma.site/
