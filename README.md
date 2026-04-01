@@ -48,7 +48,7 @@ Multi-table SaaS dataset (500 accounts, 5,000+ subscriptions)
 - Analyzed 24-month revenue trends  
 - Designed churn & retention analysis foundation  
 
-🔗 Repository: *Coming Soon*
+🔗 Repository: [Click here](https://github.com/Priyanshu-Prakash-Sharma/SaaS-Revenue-Intelligence-And-Churn-Risk-Analysis)
 
 ---
 
@@ -59,7 +59,7 @@ Text preprocessing + TF-IDF analysis
 - Conducted sentiment trend exploration  
 - Applied TF-IDF for term importance insights  
 
-🔗 Repository: [Click here](https://github.com/Priyanshu-Prakash-Sharma/SaaS-Revenue-Intelligence-And-Churn-Risk-Analysis)
+🔗 Repository: *Coming Soon*
 
 ---
 
