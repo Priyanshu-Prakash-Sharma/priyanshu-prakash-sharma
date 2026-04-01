@@ -13,7 +13,7 @@
 🧠 Skilled in transforming multi-table datasets into structured KPI systems for decision-making.  
 🚀 Actively building real-world analytics projects and preparing for **Data Analyst / BI roles**.
 
-🔗 **Portfolio:** https://priyanshuprakashsharma-gg50i22.gamma.site/
+🔗 **Portfolio:** [Click here](https://priyanshuprakashsharma-gg50i22.gamma.site/)
 
 ---
 
@@ -59,7 +59,7 @@ Text preprocessing + TF-IDF analysis
 - Conducted sentiment trend exploration  
 - Applied TF-IDF for term importance insights  
 
-🔗 Repository: *Coming Soon*
+🔗 Repository: [Click here](https://github.com/Priyanshu-Prakash-Sharma/SaaS-Revenue-Intelligence-And-Churn-Risk-Analysis)
 
 ---
 
